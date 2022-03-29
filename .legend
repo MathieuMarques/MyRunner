@@ -1,0 +1,11 @@
+0           : dirt block
+1           : grass block
+2           : spike
+' ' (space) : if you dont want to place block
+e           : end
+
+enemy will spawn randomly, you can't make them spawn by yourself
+maps are made of 18 blocks in height and if you want the ground to look good,
+place the grass/spikes on top of dirt block and put nothing over it unless you want your map to be awful.
+
+if you want an example of a map you can look in the map folder.
