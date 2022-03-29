@@ -28,7 +28,6 @@ void print_help(void)
     my_printf("USAGE\n");
     my_printf(" ./my_runner map.txt\n\n\n");
     my_printf("OPTIONS\n");
-    my_printf(" -i               launch the game in infinity mode.\n");
     my_printf(" -h               print the usage and quit.\n\n");
     my_printf("USER INTERACTIONS\n");
     my_printf(" LEFT_ARROW       move character to the left.\n");
